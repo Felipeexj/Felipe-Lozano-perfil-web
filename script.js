@@ -31,7 +31,7 @@ const ES = {
   "about.infoTitle":      "Información",
   "about.labelLocation":  "Ubicación",
   "about.valueLocation":  "espinal, Colombia",
-  "about.labelEmail":     "oscarfelipepilo@gmail.com",
+  "about.labelEmail":     "correo",
   "about.labelLanguages": "Idiomas",
   "about.valueLanguages": "Español (nativo) · Inglés (B2)",
   "about.labelStatus":    "Disponibilidad",
