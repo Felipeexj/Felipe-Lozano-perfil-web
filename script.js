@@ -30,10 +30,10 @@ const ES = {
   "about.text":           "Estudio Ingenieria de sistemas, ttambien entreno voleibol, ahora mismo busco ser una persona estable, emocionalmente y economicamente",
   "about.infoTitle":      "Información",
   "about.labelLocation":  "Ubicación",
-  "about.valueLocation":  "[espinal], Colombia",
+  "about.valueLocation":  "espinal, Colombia",
   "about.labelEmail":     "oscarfelipepilo@gmail.com",
   "about.labelLanguages": "Idiomas",
-  "about.valueLanguages": "Español (nativo) · Inglés (B2])",
+  "about.valueLanguages": "Español (nativo) · Inglés (B2)",
   "about.labelStatus":    "Disponibilidad",
   "about.valueStatus":    "Abierto a prácticas",
   "about.interestsTitle": "Intereses",
@@ -56,7 +56,7 @@ const ES = {
   "resume.experience": "Experiencia",
 
   "edu.1.title": "Técnico Profesional en Programación Web",
-  "edu.1.text":  "[Estoy aprendiendo a diseñar ventanas de programas en eclipse, ya se crear bases de datos.]",
+  "edu.1.text":  "Estoy aprendiendo a diseñar ventanas de programas en eclipse, ya se crear bases de datos.",
   "edu.2.title": "[Curso o certificación]",
   "edu.2.text":  "[Qué aprendiste y para qué te sirve.]",
 
@@ -74,11 +74,11 @@ const ES = {
   "project.3.text":  "[Tecnologías usadas]",
 
   "contact.title":         "Contacto",
-  "contact.intro":         "[Una frase invitando a escribirte. Por ejemplo: ¿Tienes un proyecto o una vacante? Escríbeme.]",
-  "contact.emailLabel":    "Correo",
+  "contact.intro":         "Tienes dudas sobre que hacer con tu futuro?, escribeme y lo ajustamos.",
+  "contact.emailLabel":    "oscarfelipepilo@gmail.com",
   "contact.linkedinValue": "[Tu perfil profesional]",
 
-  "footer.note": "[Tu nombre] · Técnico Profesional en Programación Web · UniEspinal"
+  "footer.note": "Felipe Lozano · Técnico Profesional en Programación Web · UniEspinal"
 };
 
 
@@ -101,13 +101,13 @@ const EN = {
   "hero.role": "Web Developer · Technical Support",
 
   "about.title":          "About Me",
-  "about.text":           "[Write two or three sentences about yourself: what you study, what interests you in web development, and what you are looking for now.]",
+  "about.text":           "I am studying Systems Engineering and also training in volleyball; right now, I am striving to become a stable person—both emotionally and financially.",
   "about.infoTitle":      "Information",
   "about.labelLocation":  "Location",
-  "about.valueLocation":  "[City], Colombia",
-  "about.labelEmail":     "Email",
+  "about.valueLocation":  "Espinal, Colombia",
+  "about.labelEmail":     "oscarfelipepilo@gmail.com",
   "about.labelLanguages": "Languages",
-  "about.valueLanguages": "Spanish (native) · English ([your level])",
+  "about.valueLanguages": "Spanish (native) · English (B2)",
   "about.labelStatus":    "Availability",
   "about.valueStatus":    "Open to internships",
   "about.interestsTitle": "Interests",
@@ -130,7 +130,7 @@ const EN = {
   "resume.experience": "Experience",
 
   "edu.1.title": "Professional Technician in Web Programming",
-  "edu.1.text":  "[One or two sentences about what you are learning and what you can do now.]",
+  "edu.1.text":  "I am learning to design program windows in Eclipse; I already know how to create databases.",
   "edu.2.title": "[Course or certificate]",
   "edu.2.text":  "[What you learned and how you use it.]",
 
@@ -148,11 +148,11 @@ const EN = {
   "project.3.text":  "[Technologies used]",
 
   "contact.title":         "Contact",
-  "contact.intro":         "[One sentence inviting people to write to you. Example: Have a project or a vacancy? Send me a message.]",
-  "contact.emailLabel":    "Email",
+  "contact.intro":         "Do you have doubts about what to do with your future? Write to me, and we'll sort it out.",
+  "contact.emailLabel":    "oscarfelipepilo@gmail.com",
   "contact.linkedinValue": "[Your professional profile]",
 
-  "footer.note": "[Your name] · Professional Technician in Web Programming · UniEspinal"
+  "footer.note": "Felipe Lozano · Professional Technician in Web Programming · UniEspinal"
 };
 
 
