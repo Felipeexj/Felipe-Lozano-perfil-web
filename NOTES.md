@@ -1,8 +1,8 @@
 # Translation Notes
 
-**Student:** [Your name]
-**Course:** [Inglés I / Inglés II]
-**Date:** [dd/mm/yyyy]
+**Student: Felipe Lozano
+**Course: Inglés II
+**Date: 02/10/2026
 
 ---
 
@@ -28,33 +28,23 @@ This file is where you show that you understood those differences.
 
 ## Question 1 · What did you leave out?
 
-Name **one thing** that appears in your Spanish version and does **not** appear
-in your English version. Explain why you removed it.
-
-> [Write 2–4 sentences in English.]
+I left out my date of birth and personal identification number because they are not necessary in an English professional profile. I want to keep my personal information private and focus on my skills, education, and experience.
 
 ---
 
 ## Question 2 · What did you not translate?
 
-Name **one technical term** that you kept in English in both versions.
-Explain why translating it would be a bad idea.
-
-> [Write 2–4 sentences in English.]
-
+I kept the technical term JavaScript in both versions. It is the official name of a programming language, so translating it would be incorrect and confusing. Technical terms such as HTML and CSS also keep their original names.
 ---
 
 ## Question 3 · What was difficult?
 
-Name **one sentence** that was hard to write in English. Copy the Spanish
-version and your English version. Explain what you changed and why a
-word-by-word translation did not work.
 
-> Spanish: [copy your sentence here]
+> Spanish: Estudio Ingeniería de Sistemas y también entreno voleibol. Ahora mismo busco ser una persona estable emocionalmente y económicamente.
 >
-> English: [copy your sentence here]
+> English: I am studying Systems Engineering and also training in volleyball. Right now, I am striving to become a stable person, both emotionally and financially.
 >
-> [Write 2–4 sentences in English explaining the change.]
+> The most difficult part was translating the expression "busco ser una persona estable." I used "I am striving to become" because it sounds more natural in English than a word-by-word translation. I also used "both emotionally and financially" to make the last idea clearer.
 
 ---
 
@@ -64,10 +54,7 @@ You may use dictionaries, translators and AI tools. But you must say so here.
 
 **Which tools did you use, and for what?**
 
-> [Write your answer in English. Be specific. For example: "I used
-> Cambridge Dictionary to check the difference between *develop* and
-> *design*." Or: "I used a translator for a first version of the About
-> section, and then I rewrote it because it sounded too formal."]
+I used HTML, CSS, and JavaScript to modify my website template. I used GitHub Pages to publish my profile online. I also used ChatGPT and a translator to help me write and review the English text, and I received help from a classmate while working on my project.
 
 ---
 
