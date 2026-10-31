@@ -1,17 +1,7 @@
 /* ============================================================
    WEB PROFILE TEMPLATE - SCRIPT
    UniEspinal · Técnico Profesional en Programación Web
-
-   THIS IS THE FILE YOU WILL WORK ON THE MOST.
-
-   Below there are two dictionaries: ES and EN.
-   They have exactly the same keys, but different texts.
-
-   IMPORTANT: the English version is NOT a translation of the
-   Spanish version. A professional profile in English follows
-   different rules. Read NOTES.md before you write it.
    ============================================================ */
-
 
 /* ------------------------------------------------------------
    1. SPANISH TEXTS
@@ -27,11 +17,11 @@ const ES = {
   "hero.role": "Desarrollador Web · Soporte Técnico",
 
   "about.title":          "Sobre Mí",
-  "about.text":           "Estudio Ingenieria de sistemas, ttambien entreno voleibol, ahora mismo busco ser una persona estable, emocionalmente y economicamente",
+  "about.text":           "Estudio Ingeniería de Sistemas y entreno voleibol. Me caracterizo por mi disciplina y busco crecer profesionalmente en el área de desarrollo de software e infraestructura tecnológica.",
   "about.infoTitle":      "Información",
   "about.labelLocation":  "Ubicación",
-  "about.valueLocation":  "espinal, Colombia",
-  "about.labelEmail":     "correo",
+  "about.valueLocation":  "Espinal, Colombia",
+  "about.labelEmail":     "Correo",
   "about.labelLanguages": "Idiomas",
   "about.valueLanguages": "Español (nativo) · Inglés (B2)",
   "about.labelStatus":    "Disponibilidad",
@@ -56,25 +46,25 @@ const ES = {
   "resume.experience": "Experiencia",
 
   "edu.1.title": "Técnico Profesional en Programación Web",
-  "edu.1.text":  "Estoy aprendiendo a diseñar ventanas de programas en eclipse, ya se crear bases de datos.",
-  "edu.2.title": "[Curso o certificación]",
-  "edu.2.text":  "[Qué aprendiste y para qué te sirve.]",
+  "edu.1.text":  "Desarrollo de interfaces gráficas de usuario en Eclipse y diseño e implementación de bases de datos relacionales SQL.",
+  "edu.2.title": "Diplomado en Redes de Computadores",
+  "edu.2.text":  "Interconexión de dispositivos de red, estructuración y asignación de direcciones IP, y gestión de servicios DNS y DHCP.",
 
-  "exp.1.title": "[Rol o tipo de proyecto]",
-  "exp.1.text":  "[Qué hiciste, con qué herramientas y qué resultado tuvo.]",
-  "exp.2.title": "[Rol o tipo de proyecto]",
-  "exp.2.text":  "[Qué hiciste, con qué herramientas y qué resultado tuvo.]",
+  "exp.1.title": "Desarrollador de Software & Videojuegos",
+  "exp.1.text":  "Creación del videojuego 2D 'Matar o Morir' mediante G-Develop, además del desarrollo de lógica de aplicaciones, calculadoras y gestión de bases de datos utilizando Eclipse y Visual Studio.",
+  "exp.2.title": "Proyecto de Infraestructura de Redes",
+  "exp.2.text":  "Diseño e implementación de mejoras en la arquitectura de red para una institución educativa como proyecto de grado, optimizando la conectividad y el direccionamiento IP.",
 
   "portfolio.title": "Proyectos",
-  "project.1.title": "[Nombre del proyecto]",
-  "project.1.text":  "[Tecnologías usadas]",
-  "project.2.title": "[Nombre del proyecto]",
-  "project.2.text":  "[Tecnologías usadas]",
-  "project.3.title": "[Nombre del proyecto]",
-  "project.3.text":  "[Tecnologías usadas]",
+  "project.1.title": "Matar o Morir",
+  "project.1.text":  "G-Develop · Diseño 2D · Lógica de Juego",
+  "project.2.title": "Aplicaciones Desktop & Bases de Datos",
+  "project.2.text":  "Java · Eclipse · Visual Studio · SQL",
+  "project.3.title": "Optimización de Red Escolar",
+  "project.3.text":  "Infraestructura de Red · IPv4 · DNS / DHCP",
 
   "contact.title":         "Contacto",
-  "contact.intro":         "Tienes dudas sobre que hacer con tu futuro?, escribeme y lo ajustamos.",
+  "contact.intro":         "¿Tienes preguntas sobre proyectos tecnológicos o deseas colaborar? Escríbeme.",
   "contact.emailLabel":    "oscarfelipepilo@gmail.com",
   "contact.linkedinValue": "[Tu perfil profesional]",
 
@@ -84,11 +74,6 @@ const ES = {
 
 /* ------------------------------------------------------------
    2. ENGLISH TEXTS
-
-   Before writing this section, remember:
-   - Use action verbs: built, configured, fixed, tested, supported.
-   - Do not include age, marital status or a home address.
-   - Do not translate word by word. Rewrite.
    ------------------------------------------------------------ */
 const EN = {
   "nav.home":      "HOME",
@@ -101,7 +86,7 @@ const EN = {
   "hero.role": "Web Developer · Technical Support",
 
   "about.title":          "About Me",
-  "about.text":           "I am studying Systems Engineering and also training in volleyball; right now, I am striving to become a stable person—both emotionally and financially.",
+  "about.text":           "I am studying Systems Engineering and training in volleyball. I am committed to building a solid professional career in software development and technical infrastructure.",
   "about.infoTitle":      "Information",
   "about.labelLocation":  "Location",
   "about.valueLocation":  "Espinal, Colombia",
@@ -130,25 +115,25 @@ const EN = {
   "resume.experience": "Experience",
 
   "edu.1.title": "Professional Technician in Web Programming",
-  "edu.1.text":  "I am learning to design program windows in Eclipse; I already know how to create databases.",
-  "edu.2.title": "[Course or certificate]",
-  "edu.2.text":  "[What you learned and how you use it.]",
+  "edu.1.text":  "Designing graphical user interfaces in Eclipse and building relational SQL database structures.",
+  "edu.2.title": "Diploma in Computer Networking",
+  "edu.2.text":  "Configuring network device interconnection, managing IP address allocation, and setting up DNS and DHCP services.",
 
-  "exp.1.title": "[Role or type of project]",
-  "exp.1.text":  "[What you did, which tools you used, and what the result was.]",
-  "exp.2.title": "[Role or type of project]",
-  "exp.2.text":  "[What you did, which tools you used, and what the result was.]",
+  "exp.1.title": "Software & Game Developer",
+  "exp.1.text":  "Developed the 2D game 'Matar o Morir' using G-Develop, alongside creating desktop utility applications and relational databases using Eclipse and Visual Studio.",
+  "exp.2.title": "Network Infrastructure Project",
+  "exp.2.text":  "Designing and implementing network infrastructure upgrades for an educational institution as a final capstone project, optimizing connectivity and IP configuration.",
 
   "portfolio.title": "Projects",
-  "project.1.title": "[Project name]",
-  "project.1.text":  "[Technologies used]",
-  "project.2.title": "[Project name]",
-  "project.2.text":  "[Technologies used]",
-  "project.3.title": "[Project name]",
-  "project.3.text":  "[Technologies used]",
+  "project.1.title": "Matar o Morir Game",
+  "project.1.text":  "G-Develop · 2D Game Design · Game Logic",
+  "project.2.title": "Desktop Apps & SQL Databases",
+  "project.2.text":  "Java · Eclipse · Visual Studio · SQL",
+  "project.3.title": "School Network Upgrade",
+  "project.3.text":  "Network Infrastructure · IPv4 · DNS / DHCP",
 
   "contact.title":         "Contact",
-  "contact.intro":         "Do you have doubts about what to do with your future? Write to me, and we'll sort it out.",
+  "contact.intro":         "Looking to collaborate on a technology project? Reach out to me.",
   "contact.emailLabel":    "oscarfelipepilo@gmail.com",
   "contact.linkedinValue": "[Your professional profile]",
 
@@ -158,7 +143,6 @@ const EN = {
 
 /* ============================================================
    3. LANGUAGE SWITCHER
-   You do not need to change the code below.
    ============================================================ */
 
 const DICCIONARIOS = { es: ES, en: EN };
@@ -218,10 +202,6 @@ function cerrarMenu() {
 
 /* ============================================================
    5. SKILL BARS
-
-   The width comes from the data-percent attribute in index.html.
-   You can add or remove skills freely: this code does not depend
-   on how many there are.
    ============================================================ */
 
 function animarHabilidades() {
