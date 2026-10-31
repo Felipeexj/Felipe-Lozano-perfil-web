@@ -49,15 +49,15 @@ const ES = {
 
   "about.title":          "Sobre Mí",
 
-  "about.text":           "Estudio Ingenieria de sistemas, ttambien entreno voleibol, ahora mismo busco ser una persona estable, emocionalmente y economicamente",
+  "about.text":           "Estudio Ingenieria de sistemas, tambien entreno voleibol, ahora mismo busco ser una persona estable, emocionalmente y economicamente",
 
   "about.infoTitle":      "Información",
 
   "about.labelLocation":  "Ubicación",
 
-  "about.valueLocation":  "espinal, Colombia",
+  "about.valueLocation":  "Espinal, Colombia",
 
-  "about.labelEmail":     "correo",
+  "about.labelEmail":     "Correo",
 
   "about.labelLanguages": "Idiomas",
 
@@ -110,14 +110,14 @@ const ES = {
   "edu.2.text":  "Interconexión de dispositivos de red, estructuración y asignación de direcciones IP, y gestión de servicios DNS y DHCP.",
 
 
-  "exp.1.title": "[Rol o tipo de proyecto]",
+  "exp.1.title": "Desarrollador de Software & Videojuegos",
 
-  "exp.1.text":  "[Qué hiciste, con qué herramientas y qué resultado tuvo.]",
+ "exp.1.text":  "Creación del videojuego 2D 'Matar o Morir' mediante G-Develop, además del desarrollo de lógica de aplicaciones, calculadoras y gestión de bases de datos utilizando Eclipse y Visual Studio.",
 
-  "exp.2.title": "[Rol o tipo de proyecto]",
+  "exp.2.title": "Proyecto de Infraestructura de Redes",
 
-  "exp.2.text":  "[Qué hiciste, con qué herramientas y qué resultado tuvo.]",
-
+  "exp.2.text":  "Diseño e implementación de mejoras en la arquitectura de red para una institución educativa como proyecto de grado, optimizando la conectividad y el direccionamiento IP.",
+   
 
   "portfolio.title": "Proyectos",
 
@@ -240,18 +240,19 @@ const EN = {
 
   "edu.1.text":  "I am learning to design program windows in Eclipse; I already know how to create databases.",
 
-  "edu.2.title": "[Course or certificate]",
+  "edu.2.title": "Networking Diploma",
 
-  "edu.2.text":  "[What you learned and how you use it.]",
+   "edu.2.text":  "I learned to interconnect network devices, plan and assign IP addresses, and manage DNS and DHCP services.",
 
 
-  "exp.1.title": "[Role or type of project]",
+   "exp.1.title": "Software & Video Game Developer",
 
-  "exp.1.text":  "[What you did, which tools you used, and what the result was.]",
+   "exp.1.text":  "Built the 2D video game 'Matar o Morir' with G-Develop, and developed application logic, calculators and database management using Eclipse and Visual Studio.",
 
-  "exp.2.title": "[Role or type of project]",
+   "exp.2.title": "Network Infrastructure Project",
 
-  "exp.2.text":  "[What you did, which tools you used, and what the result was.]",
+  "exp.2.text":  "Designed and implemented improvements to the network architecture of an educational institution as a capstone project, optimizing connectivity and IP addressing.",
+
 
 
   "portfolio.title": "Projects",
